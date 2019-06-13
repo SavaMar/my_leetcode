@@ -5,7 +5,7 @@
 |136| [single number][136_lc]                | [Python][136_my]    | `Easy`     |          | :skull:   | :thumbsup: |
 |206| [reverse linked list][206_lc]          | [Python][206_my]    | `Easy`     |          | :snail:   | |
 |237| [delete node in a linked list][237_lc] | [Python][237_my]    | `Easy`     |          | :snail:   | |
-|234| [Palindrome Linked List][334_lc]       | [Python][326_my]    | `Easy`     | Facebook | :fire:    | :thumbsup: |
+|234| [Palindrome Linked List][234_lc]       | [Python][326_my]    | `Easy`     | Facebook | :fire:    | :thumbsup: |
 |326| [power of three][326_lc]               | [Python][326_my]    | `Easy`     | Google   | :fire:    | :thumbsup: |
 |344| [reverse string][344_lc]               | [Python][344_my]    | `Easy`     | Airbnb   | :snail:   | :thumbsup: |
 |371| [sum of two integers][371_lc]          | [Python][371_my]    | `Easy`     |          | :flushed: | :thumbsup: |
