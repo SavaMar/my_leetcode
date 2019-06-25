@@ -2,6 +2,7 @@
 
 | # |  Problem name                          | Solution            | Difficulty | Company  |  status   | Top?| Theme |
 |---|----------------------------------------|---------------------|------------|----------|-----------|-------|-------|
+|118| [Pascals Traingle][118_lc]             | [Python][118_my]    | `Easy`     |          | :fire: :snail:| :thumbsup: |
 |136| [single number][136_lc]                | [Python][136_my]    | `Easy`     |          | :skull:   | :thumbsup: |
 |206| [reverse linked list][206_lc]          | [Python][206_my]    | `Easy`     |          | :snail:   | | `LinkedList`
 |237| [delete node in a linked list][237_lc] | [Python][237_my]    | `Easy`     |          | :snail:   | | `LinkedList`
@@ -15,6 +16,9 @@
 
 
 [Emoji](https://gist.github.com/rxaviers/7360908) | [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) 
+
+[118_lc]: https://leetcode.com/problems/pascals-triangle/
+[118_my]: https://github.com/SavaMar/my_leetcode/blob/master/easy/118_pascals_triangle.py
 
 [136_lc]: https://leetcode.com/problems/single-number/
 [136_my]: https://github.com/SavaMar/my_leetcode/blob/master/easy/136_single_number.py
