@@ -10,12 +10,15 @@
 4.06 - 206
 6.06 - 237
 13.06 - 234
+17.06 - 706
+
 --------------------------
 
 Done with help:
 326!, 136, 876, !237
 
 Done by myself but need attention:
+706!
 
 Need to be done:
 LinkedList: reverse, findLoop
