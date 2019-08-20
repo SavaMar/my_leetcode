@@ -17,7 +17,7 @@
 
 | # |  Problem name                          | Solution            | Difficulty |  status   | Top?| Theme |
 |---|----------------------------------------|---------------------|------------|-----------|-------|-------|
-|160| [intersection of 2 LinkLists][160_lc]  | [Py][160_my_py] [Go][160_my_go] C++[160_my_cpp] |`Easy`| :fire: || `LinkedList`
+|160| [intersection of 2 LinkLists][160_lc]  | [Python][160_my_py] [Go][160_my_go] [C++][160_my_cpp] |`Easy`| :fire: || `LinkedList`
 |206| [reverse linked list][206_lc]          | [Python][206_my]    | `Easy`     | :snail:   | | `LinkedList`
 |234| [Palindrome Linked List][234_lc]       | [Python][326_my]    | `Easy`     | :fire:    | :thumbsup: | `LinkedList`|
 |237| [delete node in a linked list][237_lc] | [Python][237_my]    | `Easy`     | :snail:   | | `LinkedList`
