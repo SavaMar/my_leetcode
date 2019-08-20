@@ -1,29 +1,34 @@
 # My LeetCode way
 
-| # |  Problem name                          | Solution            | Difficulty | Company  |  status   | Top?| Theme |
-|---|----------------------------------------|---------------------|------------|----------|-----------|-------|-------|
-|66 | [Plus One][66_lc]                      | [Python][66_my]     | `Easy`     | Google   | :fire:    | :thumbsup: |
-|118| [Pascals Traingle][118_lc]             | [Python][118_my]    | `Easy`     |          | :fire: :snail:| :thumbsup: |
-|136| [single number][136_lc]                | [Python][136_my]    | `Easy`     |          | :skull:   | :thumbsup: |
-|326| [power of three][326_lc]               | [Python][326_my]    | `Easy`     | Google   | :fire:    | :thumbsup: |
-|344| [reverse string][344_lc]               | [Python][344_my]    | `Easy`     | Airbnb   | :snail:   | :thumbsup: |
-|371| [sum of two integers][371_lc]          | [Python][371_my]    | `Easy`     |          | :flushed: | :thumbsup: |
-|412| [Fizz Buzz][412_lc]                    | [Python][412_my]    | `Easy`     |          | :blush:   | :thumbsup: |
-|706| [design hashmap][706_lc]               | [Python][706_my]    | `Easy`     |          | :fire:    | | `HashMap`
+| # |  Problem name                          | Solution            | Difficulty |  status   | Top?| Theme |
+|---|----------------------------------------|---------------------|------------|-----------|-------|-------|
+|26 | [Remove Duplicates Sorted Ar][26_lc]   | [Python][26_my]     | `Easy`     |  :blush: | :thumbsup: |
+|66 | [Plus One][66_lc]                      | [Python][66_my]     | `Easy`     |  :fire:    | :thumbsup: |
+|118| [Pascals Traingle][118_lc]             | [Python][118_my]    | `Easy`     |  :fire: :snail:| :thumbsup: |
+|136| [single number][136_lc]                | [Python][136_my]    | `Easy`     |  :skull:   | :thumbsup: |
+|326| [power of three][326_lc]               | [Python][326_my]    | `Easy`     | :fire:    | :thumbsup: |
+|344| [reverse string][344_lc]               | [Python][344_my]    | `Easy`     | :snail:   | :thumbsup: |
+|371| [sum of two integers][371_lc]          | [Python][371_my]    | `Easy`     | :flushed: | :thumbsup: |
+|412| [Fizz Buzz][412_lc]                    | [Python][412_my]    | `Easy`     | :blush:   | :thumbsup: |
+|706| [design hashmap][706_lc]               | [Python][706_my]    | `Easy`     | :fire:    | | `HashMap`
 
 
 ## Linked List
 
-| # |  Problem name                          | Solution            | Difficulty | Company  |  status   | Top?| Theme |
-|---|----------------------------------------|---------------------|------------|----------|-----------|-------|-------|
-|206| [reverse linked list][206_lc]          | [Python][206_my]    | `Easy`     |          | :snail:   | | `LinkedList`
-|234| [Palindrome Linked List][234_lc]       | [Python][326_my]    | `Easy`     | Facebook | :fire:    | :thumbsup: | `LinkedList`|
-|237| [delete node in a linked list][237_lc] | [Python][237_my]    | `Easy`     |          | :snail:   | | `LinkedList`
-|876| [middle of the linked list][876_lc]    | [Python][876_my]    | `Easy`     |          | :flushed: | | `LinkedList`
+| # |  Problem name                          | Solution            | Difficulty |  status   | Top?| Theme |
+|---|----------------------------------------|---------------------|------------|-----------|-------|-------|
+|160| [intersection of 2 LinkLists][160_lc]  | [Py][160_my_py] [Go][160_my_go] C++[160_my_cpp] |`Easy`| :fire: || `LinkedList`
+|206| [reverse linked list][206_lc]          | [Python][206_my]    | `Easy`     | :snail:   | | `LinkedList`
+|234| [Palindrome Linked List][234_lc]       | [Python][326_my]    | `Easy`     | :fire:    | :thumbsup: | `LinkedList`|
+|237| [delete node in a linked list][237_lc] | [Python][237_my]    | `Easy`     | :snail:   | | `LinkedList`
+|876| [middle of the linked list][876_lc]    | [Python][876_my]    | `Easy`     | :flushed: | | `LinkedList`
 
 
 
 [Emoji](https://gist.github.com/rxaviers/7360908) | [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) 
+
+[26_lc]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[26_my]: https://github.com/SavaMar/my_leetcode/blob/master/easy/26_remove_duplicates_from_sorted_array.py
 
 [66_lc]: https://leetcode.com/problems/plus-one/
 [66_my]: https://github.com/SavaMar/my_leetcode/blob/master/easy/66_plus_one.py
@@ -33,6 +38,11 @@
 
 [136_lc]: https://leetcode.com/problems/single-number/
 [136_my]: https://github.com/SavaMar/my_leetcode/blob/master/easy/136_single_number.py
+
+[160_lc]: https://leetcode.com/problems/intersection-of-two-linked-lists/
+[160_my_py]: https://github.com/SavaMar/my_leetcode/blob/master/LinkedList/160_intersection_of_two_linked_lists.py
+[160_my_cpp]: https://github.com/SavaMar/my_leetcode/blob/master/LinkedList/160_intersection_of_two_linked_lists.cpp
+[160_my_go]: https://github.com/SavaMar/my_leetcode/blob/master/LinkedList/160_intersection_of_two_linked_lists.go
 
 [206_lc]: https://leetcode.com/problems/reverse-linked-list/
 [206_my]: https://github.com/SavaMar/my_leetcode/blob/master/LinkedList/206_reverse_linked_list.py
